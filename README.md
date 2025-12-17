@@ -28,7 +28,7 @@ This research provides data-driven answers to these questions through systematic
 
 ```
 file-storage-system-architecture/
-├── article/              # Research article in Markdown (15 sections)
+├── article/              # Research article in Markdown (14 sections)
 ├── code/
 │   ├── api/             # ASP.NET Core API implementation
 │   ├── database/        # PostgreSQL schema and migrations
@@ -75,8 +75,7 @@ The complete research article is available in the `article/` directory:
 - **10-real-world-context.md**: Azerbaijan deployment scenarios
 - **11-ownership-and-lessons.md**: Operational considerations
 - **12-conclusion.md**: Summary and key findings
-- **13-future-work.md**: Research directions
-- **14-references.md**: Citations and resources
+- **13-references.md**: Citations and resources
 
 ## Key Findings
 
