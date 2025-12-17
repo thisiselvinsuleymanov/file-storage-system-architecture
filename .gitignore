@@ -1,0 +1,60 @@
+# OS Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+# Docker
+docker/volumes/
+*.log
+
+# Build artifacts
+**/bin/
+**/obj/
+**/node_modules/
+**/.vs/
+**/publish/
+
+# NuGet
+**/packages/
+*.nupkg
+*.snupkg
+
+# Benchmarks
+code/benchmarks/results/
+code/benchmarks/*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.cache
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# PostgreSQL
+*.sql.backup
+*.dump
+
+# Azurite
+code/storage/azurite/data/
+

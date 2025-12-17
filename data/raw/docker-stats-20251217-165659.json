@@ -1,0 +1,3 @@
+{"BlockIO":"0B / 460MB","CPUPerc":"0.03%","Container":"564db6ec1648f0b6ef7ec1d7b89b0277f3dd1e73529e39e95ee087c725d97f8b","ID":"564db6ec1648","MemPerc":"10.55%","MemUsage":"826.7MiB / 7.653GiB","Name":"filestorage-api","NetIO":"1.17GB / 932MB","PIDs":"44"}
+{"BlockIO":"0B / 238MB","CPUPerc":"1.00%","Container":"828ddce14b437a226c893f74c32300a983291f6b0e825ada9d7420c8d72ab072","ID":"828ddce14b43","MemPerc":"1.90%","MemUsage":"149.1MiB / 7.653GiB","Name":"filestorage-azurite","NetIO":"232MB / 232MB","PIDs":"11"}
+{"BlockIO":"0B / 1.33GB","CPUPerc":"9.17%","Container":"e3a99ac2e9f1a17df0059b7ede74206f7f03857c71f8db266feeef722adc78bb","ID":"e3a99ac2e9f1","MemPerc":"2.65%","MemUsage":"207.5MiB / 7.653GiB","Name":"filestorage-postgres","NetIO":"711MB / 932MB","PIDs":"27"}
