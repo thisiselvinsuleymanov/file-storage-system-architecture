@@ -1,3 +1,5 @@
+![Database vs Object Storage: Performance, Reliability, and System Design](images/prev.png)
+
 # File Storage System Architecture
 
 A comprehensive research-oriented repository investigating file storage strategies in ASP.NET applications using PostgreSQL for metadata and Azure Blob Storage (via Azurite) for large binary objects.
